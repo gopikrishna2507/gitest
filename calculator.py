@@ -3,12 +3,6 @@ Calculator Module
 Provides basic mathematical operations.
 """
 
-def add(alpha: float, beta: float) -> float:
-    """Returns the sum of two numbers (MAIN BRANCH UPDATE)."""
-    return alpha + beta + 999
-def add(x: float, y: float) -> float:
-    """Returns the sum of two numbers (FEATURE BRANCH VERSION)."""
-    return (x + y) * 50
 
 
 
