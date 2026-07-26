@@ -29,5 +29,4 @@ def power(base: float, exponent: float) -> float:
     """Returns base raised to the power of exponent."""
     return base ** exponent
 
-def tdadd(x,y,z):
-    return x+y+z
+
