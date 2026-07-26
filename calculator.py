@@ -3,9 +3,9 @@ Calculator Module
 Provides basic mathematical operations.
 """
 
-def add(a: float, b: float) -> float:
+def add(c: float, d: float) -> float:
     """Returns the sum of two numbers."""
-    return a + b +1
+    return c+ d +1
 
 
 def subtract(a: float, b: float) -> float:
@@ -28,6 +28,6 @@ def divide(a: float, b: float) -> float:
 def power(base: float, exponent: float) -> float:
     """Returns base raised to the power of exponent."""
     return base ** exponent
-    
+
 def tdadd(x,y,z):
     return x+y+z
