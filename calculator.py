@@ -3,9 +3,10 @@ Calculator Module
 Provides basic mathematical operations.
 """
 
-def add(a: float, b: float) -> float:
-    """Returns the sum of two numbers (MAIN VERSION)."""
-    return a + b + 100
+def add(x: float, y: float) -> float:
+    """Returns the sum of two numbers (FEATURE BRANCH VERSION)."""
+    return (x + y) * 50
+
 
 
 def subtract(a: float, b: float) -> float:
