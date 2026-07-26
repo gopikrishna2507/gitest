@@ -4,8 +4,8 @@ Provides basic mathematical operations.
 """
 
 def add(a: float, b: float) -> float:
-    """Returns the sum of two numbers."""
-    return a + b +1
+    """Returns the sum of two numbers (MAIN VERSION)."""
+    return a + b + 100
 
 
 def subtract(a: float, b: float) -> float:
